@@ -79,7 +79,6 @@ _A continuación se describen las librerías base a utilizar:_
 * [axios](https://www.npmjs.com/package/axios) - Promesa basado en el cliente HTTP el cual nos ayudara a realizar peticones a otros servidores.
 * [body-parser](https://www.npmjs.com/package/body-parser) - Facilita a parsear los datos que nos proporcione el cliente.
 * [cors](https://www.npmjs.com/package/cors) -  Proporcionar un middleware Connect/Express que se puede usar para habilitar CORS con varias opciones.
-* [@gc-sistemas/encrypt](https://github.com/GC-Sistemas/gs-encryption_node-library/packages) - Ayuda a encriptar datos con base al modelo definido por parte del departamento de sistemas.
 * [dotenv](https://www.npmjs.com/package/body-parser) - Módulo de dependencia "cero" que carga variables de entorno desde un archivo .env.
 * [express](https://www.npmjs.com/package/express) - Framework para nodejs.
 * [express-fileupload](https://www.npmjs.com/package/express-fileupload) - Middleware simple que ayuda a cargar archivos.
