@@ -1,7 +1,7 @@
 /* Libraries to create the jwt */
 import jwt from 'jsonwebtoken'
 import fs from 'fs'
-import Cryptr from '@gc-sistemas/encrypt'
+import Cryptr from 'cryptr'
 
 export class Payload {
 

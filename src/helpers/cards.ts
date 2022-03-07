@@ -1,4 +1,4 @@
-import Cryptr from '@gc-sistemas/encrypt'
+import Cryptr from 'cryptr'
 import * as validator from 'validator'
 import moment from 'moment'
 export class Card {

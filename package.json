@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/gsdevel/gs-backend_node-plantilla#readme",
   "dependencies": {
-    "@gc-sistemas/encrypt": "1.0.*",
     "axios": "^0.19.0",
     "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
+    "cryptr": "^6.0.2",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "express-fileupload": "^1.1.6-alpha.5",

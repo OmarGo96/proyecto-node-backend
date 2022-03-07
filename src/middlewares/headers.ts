@@ -1,7 +1,7 @@
 /** Importamos librerías a utilizar */
 import fs from 'fs'
 import jwt from 'jsonwebtoken'
-import Cryptr from '@gc-sistemas/encrypt'
+import Cryptr from 'cryptr'
 import { Response, Request, NextFunction } from 'express'
 
 export class CheckHeaders {
